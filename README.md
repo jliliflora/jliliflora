@@ -1,4 +1,3 @@
-[![Hits](https://hits.sh/github.com/jliliflora.svg?view=today-total&style=for-the-badge&extraCount=2200&color=ff93b1&labelColor=ffb5cb)](https://hits.sh/github.com/jliliflora/)
 [![Hits](https://hits.sh/github.com/jliliflora.svg?view=today-total&style=flat-square&extraCount=2200&color=ff93b1&labelColor=ffb5cb)](https://hits.sh/github.com/jliliflora/)
 
 ### Hi there 👋

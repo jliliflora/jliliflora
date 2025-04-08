@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjliliflora&count_bg=%23F7B2B7&title_bg=%23FF8D97&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/jliliflora.svg?view=today-total&style=for-the-badge&extraCount=2200&color=ff93b1&labelColor=ffb5cb)](https://hits.sh/github.com/jliliflora/)
 
 ### Hi there 👋
 - 2022 PORTFOLIO 🌱 : https://jliliflora.github.io/portfolio/
